@@ -1,0 +1,7 @@
+{
+  "name": "Omni Portal",
+  "description": "A holistic platform for talent matching, project collaboration, investment tracking, and location-based community events.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
